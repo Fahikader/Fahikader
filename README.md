@@ -1,57 +1,45 @@
-<div align="center">
+<h1 align="center">Hi, I'm Fahima Abdul Kader 👋</h1>
 
-# Hi there, I'm Fahima Abdul Kader 👋
-### Software Engineering Student | Machine Learning & Data Analytics Enthusiast
+<p align="center">
+  Software Engineering Student | Machine Learning & Data Analytics
+</p>
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-![Profile Views](https://komarev.com)
-
-</div>
-
----
-
-## 💫 About Me
-- 🔭 **Currently working on:** My Bachelor’s thesis on *Machine Learning for Customer Request Classification* and building practical AI-powered applications.
-- 🌱 **Currently deepening my skills in:** Machine Learning, Python, SQL, AWS, Data Analytics, and AI Agent development.
-- 👯 **Looking to collaborate on:** AI/ML projects, data analytics pipelines, and scalable software solutions.
-- 💬 **Ask me about:** Machine Learning, Data Analysis, Python, SQL, and Software Engineering.
-- ⚡ **Fun fact:** I enjoy turning complex research and raw data into clean, practical software solutions.
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## About Me
 
-**Languages & Databases**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://shields.io)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- 🔭 **Currently working on:** my Bachelor's thesis on *Machine Learning for Customer Request Classification*
+- 🌱 **Learning:** AI agent development, AWS, and scalable backend systems
+- 🤝 **Open to collaborating on:** AI/ML projects and data analytics pipelines
+- 💬 **Ask me about:** Machine Learning, Data Analysis, Python, SQL
 
-**Data Science & Machine Learning**  
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
-![scikit-learn](https://shields.io)
-![Matplotlib](https://shields.io)
+## Tech Stack
 
-**Frameworks, Cloud & Tools**  
-![FastAPI](https://shields.io)
-![AWS](https://shields.io)
-![Apache](https://shields.io)
-![GitHub](https://shields.io)
-![Windows Terminal](https://shields.io)
+**Languages & Databases**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-## 📊 GitHub Stats
+**Data Science & ML**
 
-<div align="center">
-  <img height="165" src="https://shion.dev" />
-  <img height="165" src="https://shion.dev" />
-  <br/>
-  <img height="165" src="https://demolab.com" />
-</div>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
----
+**Frameworks & Cloud**
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## Featured Project
+
+**[Customer Request Classification](https://github.com/Fahikader/Customer-Request-Classification)**
+Comparing machine learning models for classifying customer requests (Bitext dataset).
