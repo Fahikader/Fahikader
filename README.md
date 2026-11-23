@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fahima Abdul Kader 👋</h1>
 
 <p align="center">
-  Software Engineering Student | Machine Learning & Data Analytics
+  Software Engineering Student | Machine Learning & Data Analytics | Artificial Intelligence
 </p>
 
 <p align="center">
